@@ -1,0 +1,41 @@
+.page_404 {
+    padding: 40px 0;
+    background: #72fa65;
+    font-family: "Arvo", serif;
+    border-radius: 2rem;
+    box-shadow: 0rem 0rem 1rem 1rem #2c5828;
+    /* margin: auto; */
+  }
+  
+  .page_404 img {
+    width: 100%;
+  }
+  
+  .four_zero_four_bg {
+    background-image: url(https://dev.welaika.com/images/blog/dinosaur-67d8d8fc.gif);
+    height: 400px;
+    background-position: center;
+    /* background-color: transparent; */
+    background-repeat: no-repeat;
+  }
+  
+  .four_zero_four_bg h1 {
+    font-size: 80px;
+  }
+  
+  .four_zero_four_bg h3 {
+    font-size: 80px;
+  }
+  
+  .contant_box_404 {
+    /* margin-top: -50px; */
+    text-align: center;
+  }
+  .home-bannerImage-container2 {
+    position: absolute;
+    top: -100px;
+    right: -170px;
+    z-index: -2;
+    max-width: 700px;
+    transform: rotate(-180deg);
+  }
